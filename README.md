@@ -131,7 +131,6 @@ toggle root for any app you want.
 | Su daemon dies after late-load | By design | The temp su is replaced by KernelSU's own su. |
 | Exec format error on prebuilt .ko | Resolved | Kernel has CFI_CLANG — prebuilt modules are rejected. Build from source with matching config. |
 | Reboot loses root | By design | LKM mode is temporary. Re-run after each reboot. |
-| Don't be like me and grant root access to resukisu then flash it directly to the kernel, or you'll get 'the system has been destroyed' error |
 
 ## Credits
 
@@ -146,7 +145,7 @@ toggle root for any app you want.
 This project is for educational and research purposes only. Use it only on
 devices you own or have explicit authorization to test. The authors are not
 responsible for any damage, data loss, or legal consequences arising from
-the use of this software.
+the use of this software.Don't be like me and grant root access to resukisu then flash it directly to the kernel, or you'll get 'the system has been destroyed' error 
 
 ## License
 
