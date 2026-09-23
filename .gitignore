@@ -1,0 +1,11 @@
+.workdir/
+logs/
+artifacts/
+build/
+*.img
+*.apk
+*.so
+*.ko
+__pycache__/
+*.pyc
+*.gz
