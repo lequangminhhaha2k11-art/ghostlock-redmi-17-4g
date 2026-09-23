@@ -20,7 +20,7 @@ No bootloader unlock. No flashing. No partition writes. A reboot is the uninstal
 | Kernel | 6.6.118-android15-8-ge56cf6b09cca-ab15511674-4k |
 | KMI | android15-6.6 |
 | Build | OS3.0.310.0.WDTMIXM (HyperOS 3.0, Android 16) |
-| Bootloader | Locked (required — do not unlock) |
+| Bootloader | Locked |
 
 ## How It Works
 
