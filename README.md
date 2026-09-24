@@ -149,4 +149,4 @@ the use of this software.Don't be like me and grant root access to resukisu then
 
 ## License
 
-MIT — same as pixel-ksu-root.
+MIT
